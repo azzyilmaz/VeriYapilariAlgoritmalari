@@ -17,8 +17,8 @@
 >[8,11,12,16,21,22]
 ---
 ##### Soru 2
->Big-O gösterimini yazınız.
-Merge Sort, bir "böl-ve-fethet" (divide and conquer) algoritmasıdır. Aşağıda Merge Sort'un O(n*logn) zaman karmaşıklığını açıklayan adımları bulabilirsiniz:
+Big-O gösterimini yazınız.
+>Merge Sort, bir "böl-ve-fethet" (divide and conquer) algoritmasıdır. Aşağıda Merge Sort'un O(n*logn) zaman karmaşıklığını açıklayan adımları bulabilirsiniz:
 
 >Bölme (Divide) Adımı: Verilen diziyi ortadan ikiye böleriz. Bu işlem log(n) adımda gerçekleşir, çünkü her seferinde dizi ikiye bölünür.
 
